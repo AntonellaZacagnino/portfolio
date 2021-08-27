@@ -78,7 +78,7 @@ function App() {
           <div className='star5'><i className="bi bi-star"></i></div>
           <div className='star6'><i className="bi bi-star"></i></div>
         </div>
-        <div id='Sobre mi' className="container">
+        <div id='Sobre mi' className="container1">
           <div className="title">
             <h1 id="title1">Sobre mi</h1>
           </div>
@@ -91,7 +91,7 @@ function App() {
             </p>
           </div>
         </div>
-        <div id='Proyectos realizados' className="container">
+        <div id='Proyectos realizados' className="container2">
           <div className="title">
             <h1 id="title2">Proyectos realizados</h1>
           </div>
@@ -115,7 +115,7 @@ function App() {
             </ul>
           </div>
         </div>
-        <div id='Contactame!' className="container">
+        <div id='Contactame!' className="container3">
           <div className="title">
             <h1 id="title3">Contactame!</h1>
           </div>
