@@ -32,7 +32,7 @@ function App() {
       var cover2 = document.getElementById('cover2');
       let scrollTop = document.documentElement.scrollTop;
       let contentHeight2 = content2.offsetTop;
-      if(contentHeight2 + 700 < scrollTop){
+      if(contentHeight2 + 900 < scrollTop){
         content2.style.right = 0;
         cover2.style.left = '100%';
       }
