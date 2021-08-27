@@ -103,14 +103,14 @@ function App() {
                   <img src='./nuarielle.png' alt='nuarielle'/>
                 </a>
                 <span className='site-name'>Nuarielle</span>
-                <span>Proyecto realizado para el curso de React.js de Coderhouse. E-commerce realizado en React y Firebase para la base de datos.</span>
+                <span className='site-info'>Proyecto realizado para el curso de React.js de Coderhouse. E-commerce realizado en React y Firebase para la base de datos.</span>
               </li>
               <li>
                 <a href='https://antonellazacagnino.netlify.app/'>
                   <img src='./cvweb.png' alt='cv-web'/>
                 </a>
                 <span className='site-name'>CV Web</span>
-                <span>Curriculum Web personal realizado con React.js.</span>
+                <span className='site-info'>Curriculum Web personal realizado con React.js.</span>
               </li>
             </ul>
           </div>

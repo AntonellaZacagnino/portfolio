@@ -174,7 +174,7 @@ body {
 }
 
 .projects img{
-  height: 150px;
+  width: 100%;
 }
 
 .projects .site-name {
@@ -198,7 +198,7 @@ body {
 
 /* Responsive styles */
 
-@media (min-width: 360px) and (min-height:640px)
+@media (min-width: 360px) and (max-width: 1024px) 
 {
   .navbar ul{
     margin-right: 0 !important;
@@ -277,6 +277,10 @@ body {
     margin-top: 2rem;
   }
 
+  .projects .site-info{
+    margin-top:20px;
+    font-size: 30px;
+  }
   .content #content3{
     padding:0;
   }
