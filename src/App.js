@@ -104,6 +104,7 @@ function App() {
                 </a>
                 <span className='site-name'>Nuarielle</span>
                 <span className='site-info'>Proyecto realizado para el curso de React.js de Coderhouse. E-commerce realizado en React y Firebase para la base de datos.</span>
+                <span><a href="https://github.com/AntonellaZacagnino/Nuarielle"><strong>Repository</strong></a></span>
               </li>
               <li>
                 <a href='https://antonellazacagnino.netlify.app/'>
@@ -111,6 +112,15 @@ function App() {
                 </a>
                 <span className='site-name'>CV Web</span>
                 <span className='site-info'>Curriculum Web personal realizado con React.js.</span>
+                <span><a href="https://github.com/AntonellaZacagnino/CVOnline"><strong>Repository</strong></a> </span>
+              </li>
+              <li>
+                <a href='https://azacagnino-aerolab-challenge.vercel.app/'>
+                  <img src='./aerolab.png' alt='aerolab-challenge'/>
+                </a>
+                <span className='site-name'>Aerolab Frontend Challenge</span>
+                <span className='site-info'>Frontend Challenge para la empres Aerolab, realizado con React.js y Next.js</span>
+                <span><a href="https://github.com/AntonellaZacagnino/aerolab-challenge"><strong>Repository</strong></a> </span>
               </li>
             </ul>
           </div>
